@@ -1,0 +1,1 @@
+# sn28-custom-miner
